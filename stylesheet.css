@@ -29,11 +29,11 @@
     height: auto;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 300px) {
     .mainbox {
         width: 100%;
         height: auto;
-        margin-top: 0;
+        margin:0 50 0 50;
     }
     
     .title {
