@@ -18,7 +18,7 @@
     height: 50px;
     position: absolute;
     text-align: center;
-    color: #7682af;
+    color: #657097;
     font-size: 48px;
     margin: 20px 20px 20px 20px;
     border: 0px solid;
@@ -29,11 +29,30 @@
     height: auto;
 }
 
+.menu {
+    font-size: large;
+    list-style: none;
+    line-height: 30px;
+    
+}
+
+.menutitle {
+    color: #7682af;
+
+}
+
+a {
+    text-decoration: none !important;
+    color: #6e8f5f;
+  }
+
+
+
 @media (max-width: 300px) {
     .mainbox {
         width: 100%;
         height: auto;
-        margin:0 50 0 50;
+        margin-top: 0;
     }
     
     .title {
