@@ -32,13 +32,11 @@
 .menu {
     font-size: large;
     list-style: none;
-    line-height: 30px;
-    
+    line-height: 30px;  
 }
 
 .menutitle {
     color: #7682af;
-
 }
 
 a {
@@ -53,7 +51,7 @@ a {
         width: 100%;
         height: auto;
         margin-top: 0;
-    }
+ }
     
     .title {
         width: 100%;
