@@ -34,14 +34,11 @@
     line-height: 30px;
     width: 480px;
     height: auto;
-    
-    
+    line-height: 30px;  
 }
 
 .menutitle {
     color: #7682af;
-    font-size: 32px;
-
 }
 
 a {
@@ -57,7 +54,7 @@ a {
         width: 100%;
         height: auto;
         margin-top: 0;
-    }
+ }
     
     .title {
         width: 100%;
